@@ -1,5 +1,8 @@
 ## Hi, I'm Bismark Osei-Bonsu
 ### M.S. in Computer Science (Artificial Intelligence) 
+Data Analyst | ML Enthusiast | Healthcare Analytics
+
+I turn data into insights and models into solutions. Currently building analytics pipelines at TruBridge while pursuing an M.S. in Computer Science with an AI focus at the University of the Potomac.
 
 
 <!--
