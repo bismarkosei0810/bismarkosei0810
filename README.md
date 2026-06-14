@@ -3,7 +3,9 @@
 Data Analyst | ML Enthusiast | Healthcare Analytics
 
 I turn data into insights and models into solutions. Currently building analytics pipelines at TruBridge while pursuing an M.S. in Computer Science with an AI focus at the University of the Potomac.
+Tech Stack
 
+Python • SQL • Power BI • Tableau • XGBoost • Scikit-learn • DAX • Excel
 
 <!--
 **bismarkosei0810/bismarkosei0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
