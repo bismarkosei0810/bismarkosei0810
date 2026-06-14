@@ -1,23 +1,8 @@
 ## Hi, I'm Bismark Osei-Bonsu
-### M.S. in Computer Science (Artificial Intelligence) 
-Data Analyst | ML Enthusiast | Healthcare Analytics
+### M.S. in Computer Science (Artificial Intelligence)
 
-I turn data into insights and models into solutions. Currently building analytics pipelines at TruBridge while pursuing an M.S. in Computer Science with an AI focus at the University of the Potomac.
+I am a Data Analyst, i  turn data into insights and models into solutions. Pursuing an M.S. in Computer Science with an AI focus at the University of the Potomac.
+
 Tech Stack
-
 Python • SQL • Power BI • Tableau • XGBoost • Scikit-learn • DAX • Excel
 
-<!--
-**bismarkosei0810/bismarkosei0810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
