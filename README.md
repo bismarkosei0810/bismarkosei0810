@@ -4,7 +4,7 @@ I am a Data Analyst with a strong background in Computer Science and a focus on 
 ## 💡About Me
 🎓 MSc Computer Science (AI concentration)
 
-📊 Focused on Data Analytics and Business Intelligence
+📊 Focused on Data Analytics, Data Science and Business Intelligence
 
 📈 Passionate about turning raw data into clear insights and dashboards
 
