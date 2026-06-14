@@ -21,6 +21,13 @@ I am a Data Analyst with a strong background in Computer Science, Data Science  
 
 **Databases:** SQL (data querying, joins, aggregation, cleaning)
 Other Tools: Jupyter Notebook, VS Code
+## Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat&logo=power-bi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 
 ## 📊 What I Do
 I work with datasets to:
@@ -30,10 +37,3 @@ Write SQL queries to extract mean,ingful insights
 Perform exploratory data analysis using Python
 Visualize trends and KPIs using Power BI and Tableau
  
-## Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2CC8F?style=flat&logo=power-bi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
