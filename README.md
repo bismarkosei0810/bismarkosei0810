@@ -1,7 +1,7 @@
 ## Hi, I'm Bismark Osei-Bonsu
 I am a Computer Science graduate and current Master’s student with a strong focus on Data Analytics and business intelligence. I enjoy working with data to find patterns, build dashboards, and support better decision-making.
  
- ##💡 About Me
+ ##💡** About Me**
 🎓 MSc Computer Science (AI concentration)
 📊 Focused on Data Analytics and Business Intelligence
 📈 Passionate about turning raw data into clear insights and dashboards
