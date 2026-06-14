@@ -26,7 +26,7 @@ Other Tools: Jupyter Notebook, VS Code
 I work with datasets to:
 Clean and transform raw data into usable formats
 Build dashboards and reports for decision-making
-Write SQL queries to extract meaningful insights
+Write SQL queries to extract mean,ingful insights
 Perform exploratory data analysis using Python
 Visualize trends and KPIs using Power BI and Tableau
  
